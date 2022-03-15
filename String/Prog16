@@ -3,8 +3,3 @@ Write a script to enter any word and check it is palindrom or not.
 Eg: naman
 
 naman is palindrom word.
-string=input("enter any string")
-if(string==string[::-1]):
-        print("the string is palodrome")
-else:
-    print("not a palidrome")
